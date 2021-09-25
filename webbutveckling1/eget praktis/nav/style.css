@@ -1,0 +1,38 @@
+body {
+    background-image: url("fint.jpg");
+    background-size: cover;
+    margin: 0;
+    font-family: Arial, helvetiva, sans-serif;
+}
+.topnav {
+    overflow: hidden;
+    background-color: royalblue;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: grey;
+    color: black;
+}
+.topnav a.active {
+    background-color:dodgerblue;
+    color: darkblue;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0%;
+    width: 100%;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+}

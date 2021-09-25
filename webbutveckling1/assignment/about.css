@@ -1,0 +1,9 @@
+body {
+    background-image: url("om mig/img/beautiful-tropical-beach-sea-ocean-with-white-cloud-blue-sky-copyspace_74190-8663.jpg");
+    background-size: cover;
+}
+.column{
+    width: 45%;
+    padding: 10px;
+    height:auto;
+}

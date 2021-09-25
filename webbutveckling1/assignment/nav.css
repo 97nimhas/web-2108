@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+}
+.nav {
+    background-size: cover;
+    font-family: Arial, helvetiva, sans-serif;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+flex-wrap: wrap;
+}
+.topnav {
+    /*position: fixed;*/
+    width: 100%;
+    margin:auto;
+    overflow: hidden;
+    background-color: royalblue;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 10px;
+}
+
+.topnav a:hover {
+    margin: 0;
+    background-color: grey;
+    color: black;
+}
+.topnav a.active {
+    margin: auto;
+    background-color:dodgerblue;
+    color: darkblue;
+}
