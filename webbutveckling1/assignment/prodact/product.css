@@ -2,7 +2,6 @@
     background: white;
     border-radius: 10px;
     display: flex;
-    flex-wrap: wrap;
 }
 .flex-item{
     padding: 20px;
