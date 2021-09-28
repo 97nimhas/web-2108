@@ -1,0 +1,12 @@
+body {
+    background-image: url("../img file/background for about.jpg");
+    background-size: cover;
+}
+.column{
+    text-align: center;
+    width:100%;
+    -ms-grid-column-align: center;
+    padding: 0;
+    height:auto;
+    float: left;
+}
