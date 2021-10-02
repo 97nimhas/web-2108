@@ -13,8 +13,6 @@ _
 0webbutveckling1/assignment/html file/footer.html,f\f\ff761acf87ff91d13e1230b4838fc74a1dd3e973
 ]
 -webbutveckling1/assignment/css file/index.css,5\9\5986fd78ab7ae9fe06efac014895a3dd76bb9afc
-]
--webbutveckling1/assignment/css file/blogg.css,8\e\8e19cf524551d0c6e99dd0f7374919f9a677c73a
 [
 +webbutveckling1/assignment/css file/nav.css,4\3\437d0b13ae4d21f3f43144d178aaeae53b057d83
 ^
