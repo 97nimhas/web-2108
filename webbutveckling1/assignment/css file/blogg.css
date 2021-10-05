@@ -25,11 +25,3 @@ body {
     height: auto;
     flex-wrap: wrap;
 }
-.footer {
-    position: fixed;
-    left: 0;
-    width: 100%;
-    background-color: coral;
-    color: black;
-    text-align: center;
-}

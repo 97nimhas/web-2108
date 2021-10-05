@@ -13,7 +13,6 @@ body{
 flex-wrap: wrap;
 }
 .topnav {
-    /*position: fixed;*/
     width: 100%;
     margin:auto;
     overflow: hidden;
