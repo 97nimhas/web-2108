@@ -1,5 +1,4 @@
 body {
-    font-family: Arial;
     margin: 0;
     height: auto;
 }
@@ -29,7 +28,6 @@ body {
 .footer {
     position: fixed;
     left: 0;
-    bottom: 0%;
     width: 100%;
     background-color: coral;
     color: black;

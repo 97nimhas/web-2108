@@ -7,7 +7,6 @@
     padding: 20px;
     background: white;
     border-radius: 10px;
-    font-family: Arial;
     font-size: 20px;
     margin: 3px;
     height: auto;
@@ -16,4 +15,8 @@
 }
 .text {
     padding-right: 20px;
+}
+.img {
+    max-width: 250px;
+    max-height: 250%;
 }
